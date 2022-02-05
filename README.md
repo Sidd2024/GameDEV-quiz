@@ -1,6 +1,6 @@
-#About
+## About
 A creative and interactive CLI-quiz about Game Development!
-PLAY
-'''sh
+## PLAY
+```sh
 npx flex-quiz
-'''
+```
